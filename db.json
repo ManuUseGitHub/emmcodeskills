@@ -2,15 +2,15 @@
   "hardskills": [
     {
       "id": 1,
-      "img" : "feather.png",
+      "img": "feather.png",
       "label": "Graphics",
-      "skills" : [
+      "skills": [
         "The Gimp / photoshop",
         "SVG (Inkskape)",
         "Afinity photo/design",
         "SVG Logo"
       ],
-      "complements" : [
+      "complements": [
         "Logo : 10+",
         "Mailfooters : 4",
         "Designs : 100+"
@@ -18,9 +18,9 @@
     },
     {
       "id": 2,
-      "img" : "cloud.png",
+      "img": "cloud.png",
       "label": "Web Dev",
-      "skills" : [
+      "skills": [
         "Vue.js",
         "Angular 8",
         "PHP 7, Laravel 5",
@@ -37,16 +37,16 @@
         "pug/jade",
         "JSON"
       ],
-      "complements" : [
+      "complements": [
         "SVG Manipulation : 4",
         "Gulp usage : 3"
       ]
     },
     {
       "id": 3,
-      "img" : "java.png",
+      "img": "java.png",
       "label": "Java",
-      "skills" : [
+      "skills": [
         "javaFX",
         "java Swing",
         "JSP/JSF",
@@ -57,47 +57,47 @@
         "TCP / UDP",
         ".jar files"
       ],
-      "complements" : [
+      "complements": [
         "JSF websites : 2",
-        "applications : 50+",
+        "applications : 50+"
       ]
     },
     {
       "id": 4,
-      "img" : "database.png",
+      "img": "database.png",
       "label": "Database",
-      "skills" : [
+      "skills": [
         "UML",
         "MERISE",
-        "SQL",
+        "SQL"
       ],
-      "complements" : [
+      "complements": [
         "Databases : 20+"
       ]
     },
     {
       "id": 5,
-      "img" : "visualstudio.png",
+      "img": "visualstudio.png",
       "label": ".NET",
-      "skills" : [
+      "skills": [
         "li .NET C#",
         "Linq",
         "ASP.NET MVC",
         "MSTest",
         "Entity Framework",
         ".exe files",
-        "CSV",
+        "CSV"
       ],
-      "complements" : [
+      "complements": [
         "Mono Games : 2",
         "websites : 2"
       ]
     },
     {
       "id": 6,
-      "img" : "android.png",
+      "img": "android.png",
       "label": "Mobile",
-      "skills" : [
+      "skills": [
         "Android Java",
         "Android Kotlin",
         "Responsiveness",
@@ -107,29 +107,28 @@
         "application settings",
         "Gradle"
       ],
-      "complements" : [
+      "complements": [
         "Android App : 2"
       ]
     },
     {
       "id": 7,
-      "img" : "source.png",
+      "img": "source.png",
       "label": "Source Control",
-      "skills" : [
+      "skills": [
         "GIT",
         "BitBucket",
         "Source tree",
         "Git Lab",
         "Mercurial"
       ],
-      "complements" : [
-      ]
+      "complements": []
     },
     {
       "id": 8,
-      "img" : "rocket.png",
+      "img": "rocket.png",
       "label": "Other",
-      "skills" : [
+      "skills": [
         "Linux",
         ".bat",
         "python",
@@ -138,10 +137,9 @@
         "C",
         "XML",
         "TeamWork",
-        "RedMine",
+        "RedMine"
       ],
-      "complements" : [
-      ]
+      "complements": []
     }
-  ],
+  ]
 }
