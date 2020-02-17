@@ -1,0 +1,15 @@
+{
+  "hardskills": [
+    {
+      "id": 1,
+      "img" : "assets/images/service/feather.png",
+      "label": "Graphics",
+      "skills" : [
+        "The Gimp / photoshop",
+        "SVG (Inkskape)",
+        "Afinity photo/design",
+        "SVG Logo"
+      ]
+    }
+  ],
+}
