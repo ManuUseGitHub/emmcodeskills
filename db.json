@@ -1,16 +1,16 @@
 {
   "hardskills": [
     {
-      id: 1,
-      img : "feather.png",
-      label: "Graphics",
-      skills : [
+      "id": 1,
+      "img" : "feather.png",
+      "label": "Graphics",
+      "skills" : [
         "The Gimp / photoshop",
         "SVG (Inkskape)",
         "Afinity photo/design",
         "SVG Logo"
       ],
-      complements : [
+      "complements" : [
         "Logo : 10+",
         "Mailfooters : 4",
         "Designs : 100+"
