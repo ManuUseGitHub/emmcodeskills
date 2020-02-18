@@ -1,4 +1,21 @@
 {
+  "typeFilter":[
+    {
+      "code":"001",
+      "title" : "Weight",
+      "default" : true 
+    },
+    {
+      "code":"002",
+      "title" : "Ease",
+      "default" : false
+    },
+    {
+      "code":"003",
+      "title" : "Achievements",
+      "default" : false 
+    },
+  ],
   "hardskills": [
     {
       "id": 1,
