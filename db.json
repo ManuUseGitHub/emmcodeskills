@@ -2,6 +2,7 @@
   "hardskills": [
     {
       "id": 1,
+      "ease" : 90,
       "img": "feather.png",
       "label": "Graphics",
       "skills": [
@@ -18,6 +19,7 @@
     },
     {
       "id": 2,
+      "ease" : 85,
       "img": "cloud.png",
       "label": "Web Dev",
       "skills": [
@@ -44,6 +46,7 @@
     },
     {
       "id": 3,
+      "ease" : 75,
       "img": "java.png",
       "label": "Java",
       "skills": [
@@ -64,6 +67,7 @@
     },
     {
       "id": 4,
+      "ease" : 75,
       "img": "database.png",
       "label": "Database",
       "skills": [
@@ -77,6 +81,7 @@
     },
     {
       "id": 5,
+      "ease" : 60,
       "img": "visualstudio.png",
       "label": ".NET",
       "skills": [
@@ -95,6 +100,7 @@
     },
     {
       "id": 6,
+      "ease" : 55,
       "img": "android.png",
       "label": "Mobile",
       "skills": [
@@ -113,6 +119,7 @@
     },
     {
       "id": 7,
+      "ease" : 40,
       "img": "source.png",
       "label": "Source Control",
       "skills": [
@@ -126,6 +133,7 @@
     },
     {
       "id": 8,
+      "ease" : 35,
       "img": "rocketbox.png",
       "label": "Other",
       "skills": [
