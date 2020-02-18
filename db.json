@@ -1,6 +1,11 @@
 {
   "typeFilter":[
     {
+      "code":"000",
+      "title" : "Select ...",
+      "default" : false 
+    },
+    {
       "code":"001",
       "title" : "Weight",
       "default" : true 
