@@ -126,7 +126,7 @@
     },
     {
       "id": 8,
-      "img": "rocket.png",
+      "img": "rocketbox.png",
       "label": "Other",
       "skills": [
         "Linux",
