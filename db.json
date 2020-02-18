@@ -21,7 +21,7 @@
     {
       "id": 2,
       "ease" : 85,
-      "preferedOrder" : 5,
+      "preferedOrder" : 1,
       "img": "cloud.png",
       "label": "Web Dev",
       "skills": [
@@ -49,7 +49,7 @@
     {
       "id": 3,
       "ease" : 75,
-      "preferedOrder" : 5,
+      "preferedOrder" : 2,
       "img": "java.png",
       "label": "Java",
       "skills": [
@@ -86,7 +86,7 @@
     {
       "id": 5,
       "ease" : 60,
-      "preferedOrder" : 5,
+      "preferedOrder" : 3,
       "img": "visualstudio.png",
       "label": ".NET",
       "skills": [
@@ -106,7 +106,7 @@
     {
       "id": 6,
       "ease" : 55,
-      "preferedOrder" : 5,
+      "preferedOrder" : 4,
       "img": "android.png",
       "label": "Mobile",
       "skills": [
