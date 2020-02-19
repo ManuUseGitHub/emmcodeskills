@@ -29,7 +29,7 @@
     {
       "id": 1,
       "ease" : 90,
-      "preferedOrder" : 7,
+      "preferedOrder" : 6,
       "img": "feather.png",
       "label": "Graphics",
       "skills": [
@@ -167,7 +167,7 @@
     {
       "id": 8,
       "ease" : 35,
-      "preferedOrder" : 8,
+      "preferedOrder" : 6,
       "img": "rocketbox.png",
       "label": "Other",
       "skills": [
