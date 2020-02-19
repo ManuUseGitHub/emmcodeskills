@@ -3,22 +3,26 @@
     {
       "code":"000",
       "title" : "Select ...",
-      "default" : false 
+      "default" : false,
+      "mask" : "000"
     },
     {
       "code":"001",
       "title" : "With weight",
-      "default" : true 
+      "default" : true,
+      "mask" : "00A" 
     },
     {
       "code":"002",
       "title" : "With ease",
-      "default" : false
+      "default" : false,,
+      "mask" : "0A0"
     },
     {
       "code":"003",
       "title" : "With achievements",
-      "default" : false 
+      "default" : false,
+      "mask" : "A00" 
     }
   ],
   "hardskills": [
