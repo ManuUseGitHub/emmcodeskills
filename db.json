@@ -7,17 +7,17 @@
     },
     {
       "code":"001",
-      "title" : "Weight",
+      "title" : "With weight",
       "default" : true 
     },
     {
       "code":"002",
-      "title" : "Ease",
+      "title" : "With ease",
       "default" : false
     },
     {
       "code":"003",
-      "title" : "Achievements",
+      "title" : "With achievements",
       "default" : false 
     }
   ],
